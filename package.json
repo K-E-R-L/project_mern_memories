@@ -1,5 +1,4 @@
 {
-  "preinstall": "npm config set package-lock false"
   "name": "mern-stack-api",
   "version": "1.0.0",
   "description": "",
