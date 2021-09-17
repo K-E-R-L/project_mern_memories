@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "engines": {
     "node": "16.x"
+  }
   "private": true,
   "proxy": "https://memories-project-part4.herokuapp.com/",
   "dependencies": {
