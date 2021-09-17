@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs",
-    "body-parser",
-    "cors",
-    "express",
-    "jsonwebtoken",
+    "bcryptjs"
+    "body-parser"
+    "cors"
+    "express"
+    "jsonwebtoken"
     "mongoose"
   },
   "devDependencies": {
